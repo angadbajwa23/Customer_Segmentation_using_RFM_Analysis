@@ -5,7 +5,7 @@
 - To do Exploratory Data Analysis on the given dataset
 - Identify potential customer segmentation using RFM model
 - Provide meaningful insights based on the above customer segmentation
-- What action should the company based on these insight
+- What action should the company take based on these insights
 - List the champions, potential customers and customers who need attention.
 
 
@@ -57,6 +57,6 @@ We use the following categories-
 ### Execution and results
 Run the ipynb file. It consists of EDA as well as customer segmentation using RFM.
 
-Data insights and company action for different customers are mention in the ppt named Presentation.
+Data insights and company action for different customers are mentioned in the ppt named Presentation.
 
-The Output folder contains three excel sheets each consisting of the customer ID of the champions, potential customers and customers who need attention.
+The Output folder contains three excel sheets each consisting of the customer IDs of the champions, potential customers and customers who need attention.
